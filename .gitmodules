@@ -1,0 +1,3 @@
+[submodule "Plugins/Box3DUnreal"]
+	path = Plugins/Box3DUnreal
+	url = https://github.com/ArtemIyX/Box3DUnreal.git

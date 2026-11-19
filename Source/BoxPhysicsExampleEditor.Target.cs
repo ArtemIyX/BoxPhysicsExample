@@ -8,8 +8,9 @@ public class BoxPhysicsExampleEditorTarget : TargetRules
 	public BoxPhysicsExampleEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V6;
+		IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
+		DefaultBuildSettings = BuildSettingsVersion.Latest;
 
-		ExtraModuleNames.AddRange( new string[] { "BoxPhysicsExample" } );
+		ExtraModuleNames.AddRange(new string[] { "BoxPhysicsExample" });
 	}
 }
