@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Box Physics Example</h1>
   <img width="1280" height="640" alt="Header" src="https://github.com/user-attachments/assets/c2c5e34f-ce11-4e3e-a30f-ced31b1fb085" />
-  <p><em>Header image coming soon</em></p>
   <p>An Unreal Engine example project for exploring Box3D physics, asynchronous simulation, and multiplayer replication.</p>
   <p>
     <a href="#getting-started"><img src="https://img.shields.io/badge/Unreal_Engine-5.7-20252B?logo=unrealengine" alt="Unreal Engine 5.7"></a>
